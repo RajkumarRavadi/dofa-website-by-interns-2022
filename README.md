@@ -1,2 +1,2 @@
 # dofa-website-by-interns-2022
-The following work done by ZAVEDSHAIK during his internship at dofa.
+The following project is done by ZAVEDSHAIK(BigSecrett) during his internship at dofa.
